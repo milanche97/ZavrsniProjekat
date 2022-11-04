@@ -1,0 +1,63 @@
+body {
+    font-size: 14px;
+}
+.blog-masthead{
+    background: #b34848;
+}
+h1,h2,h3,h4{
+    color: #b34848 
+}
+h1 a,h2 a,h3 a{
+    color: #b34848;
+}
+
+.list-unstyled {
+    display: block;
+    color: #b34848;
+    
+}
+.input-comment{
+    color: #b34848;
+}
+.form textarea{
+    width: 100% ;
+    height: 100px;
+}
+.form input{
+    display: block;
+    margin:20px 0px 20px 0px;
+}
+h1 a:hover {
+    color: #B34848;
+  }
+ 
+/* body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #555;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #b34848;
+}
+.nav {
+    background-color: #b34848;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+    color: #fff;
+    background-color:transparent;
+} */
